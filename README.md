@@ -38,12 +38,12 @@ VRC Event Managerは、Djangoで構築されたWebアプリケーションのバ
 
 1. リポジトリをクローンします：
    ```
-   git clone https://github.com/your-username/vrchat-event-management.git
+   git clone https://github.com/noricha-vr/VRCEventManager.git
    ```
 
 2. プロジェクトディレクトリに移動します：
    ```
-   cd vrchat-event-management
+   cd VRCEventManager
    ```
 
 3. 仮想環境を作成して有効化します：
@@ -67,7 +67,7 @@ VRC Event Managerは、Djangoで構築されたWebアプリケーションのバ
    python manage.py createsuperuser
    ```
 
-7. ソーシャルメディアとGoogleカレンダーのAPI認証情報を設定します：
+7. ソーシャルメディアとGoogleカレンダーのAPI認証情報を設定します(不要)：
    - Twitter、Discord、Googleカレンダーの API 認証情報を取得します
    - プロジェクト設定ファイルで対応する設定を更新します
 
