@@ -1,6 +1,5 @@
 # VRC Event Manager
 
-[![License](https://img.shields.io/github/license/your-username/vrchat-event-management)](
 
 VRC Event Managerは、Djangoで構築されたWebアプリケーションのバックエンドで、VRChatコミュニティ内でのイベントの作成、管理、告知を行います。
 
